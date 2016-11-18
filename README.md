@@ -11,5 +11,5 @@ Our main question is what leads to a property either being sold above or below m
 This project is done as a final project for the Fall 2016 Data Mining Course. Although, results will be passed along to a local think tank in Tallahassee, Fl.
 
 #Collaborators
-Tyler Worthington , Lev Zadvinskiy, and Mark Rooney.
+Tyler Worthington , Lev Zadvinskiy, and Mark Rooney
 
